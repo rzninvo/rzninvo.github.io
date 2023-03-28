@@ -36,7 +36,7 @@ My CV [[pdf](https://github.com/rzninvo/rzninvo.github.io/blob/main/CV_Roham_Zen
 ## Research and Work Experiences
 * **B.Sc. THESIS | DIGITAL TWIN OF A TRAFFIC SCENE USING RSU AND AWSIM | AMIRKABIR UNI. | MAR 2023 – PRESENT** <br>
  • Under the supervision of [Prof. Mahdi Javanmardi](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en) <br> 
- •	I am currently working on my thesis in the field of Intelligent Transport Systems and Digital Twins. This research focuses on creating a semi-automatic digital twin of a traffic scene near the Amirkabir University Campus. <br>
+ •	I am currently working on my thesis in the field of **Intelligent Transport Systems** and **Digital Twins**. This research focuses on creating a **semi-automatic digital twin** of a traffic scene near the Amirkabir University Campus. <br>
  • The project involves **3D modeling**, **object detection** such as **detecting pedestrians** and moving vehicles using camera data, object movement **path extraction** using Lidar sensors, and finally feeding all the processed data to the **AWSIM simulator** so we can have a real-time simulation. <br>
  •	Libraries: **ROS, AWSIM, Keras, Tensorflow, OpenCV** <br>
  • Software: **AutoCAD, Sketchup, Cloudcompare, Veloview** <br>
