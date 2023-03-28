@@ -35,20 +35,20 @@ My CV [[pdf](https://github.com/rzninvo/rzninvo.github.io/blob/main/CV_Roham_Zen
 
 ## Research and Work Experiences
 * **B.Sc. THESIS | DIGITAL TWIN OF A TRAFFIC SCENE USING RSU AND AWSIM | AMIRKABIR UNI. | MAR 2023 – PRESENT** <br>
-  * Under the supervision of [Prof. Mahdi Javanmardi](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en)   
-  *	I am currently working on my thesis in the field of Intelligent Transport Systems and Digital Twins. This research focuses on creating a semi-automatic digital twin of a traffic scene near the Amirkabir University Campus.   
-  * The project involves **3D modeling**, **object detection** such as **detecting pedestrians** and moving vehicles using camera data, object movement **path extraction** using Lidar sensors, and finally feeding all the processed data to the **AWSIM simulator** so we can have a real-time simulation.   
-  *	Libraries: ROS, AWSIM, Keras, Tensorflow, OpenCV   
-  * Software: AutoCAD, Sketchup, Cloudcompare, Veloview   
+  *	Under the supervision of [Prof. Mahdi Javanmardi](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en)   
+  *	I am currently working on my thesis in the field of Intelligent Transport Systems and Digital Twins. This research focuses on creating a semi-automatic digital twin of a traffic scene near the Amirkabir University Campus.
+  * The project involves **3D modeling**, **object detection** such as **detecting pedestrians** and moving vehicles using camera data, object movement **path extraction** using Lidar sensors, and finally feeding all the processed data to the **AWSIM simulator** so we can have a real-time simulation.
+  *	Libraries: ROS, AWSIM, Keras, Tensorflow, OpenCV
+  * Software: AutoCAD, Sketchup, Cloudcompare, Veloview
 <br>
 
 * **RESEARCH GROUP | AMIRKABIR UNI. | FEB 2023 – PRESENT** <br>
-  * I am currently the head of a research team under the guidance of [Professor Farbeh](https://scholar.google.com/citations?user=PAZOYiAAAAAJ&hl=en), and we are currently researching on **Software Disassembling Techniques with Assembly**.   
+  * I am currently the head of a research team under the guidance of [Professor Farbeh](https://scholar.google.com/citations?user=PAZOYiAAAAAJ&hl=en), and we are currently researching on **Software Disassembling Techniques with Assembly**.
   * Our findings will be presented as multiple hands-on video lectures in the upcoming Fall 2023 semester for the **Microprocessor and Assembly Language** course.
 <br>
 
 * **Data Scientist Intern | [ParticleB CO.](https://particleb.ai/) | JUN 2022 – NOV 2022** <br>
-  * As an intern for a period of six months, my duties primarily involved gaining knowledge about Natural Language Processing (NLP) and developing a model capable of analyzing sentiment polarity in reviews of cryptocurrency trends.   
+  * As an intern for a period of six months, my duties primarily involved gaining knowledge about Natural Language Processing (NLP) and developing a model capable of analyzing sentiment polarity in reviews of cryptocurrency trends.
   * I was tasked with implementing a Google Chrome extension designed to predict current trends in cryptocurrency using the acquired reviews from [www.tradingview.com](https://www.tradingview.com/).
  <br>
 
