@@ -5,7 +5,9 @@ My research interests are:
 * `Deep Learning`
 * `Data Mining`
 * `Computer Vision`
-* `Natural Language Processing`<br>
+* `Natural Language Processing`
+* `Intelligent Transport Systems`
+* `Robotics` <br>
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rzninvo@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/rzninvo)
