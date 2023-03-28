@@ -35,21 +35,21 @@ My CV [[pdf](https://github.com/rzninvo/rzninvo.github.io/blob/main/CV_Roham_Zen
 
 ## Research and Work Experiences
 * **B.Sc. THESIS | DIGITAL TWIN OF A TRAFFIC SCENE USING RSU AND AWSIM | AMIRKABIR UNI. | MAR 2023 – PRESENT** <br>
-  * Under the supervision of [Prof. Mahdi Javanmardi](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en)   
-  *	I am currently working on my thesis in the field of Intelligent Transport Systems and Digital Twins. This research focuses on creating a semi-automatic digital twin of a traffic scene near the Amirkabir University Campus.
-  * The project involves **3D modeling**, **object detection** such as **detecting pedestrians** and moving vehicles using camera data, object movement **path extraction** using Lidar sensors, and finally feeding all the processed data to the **AWSIM simulator** so we can have a real-time simulation.
-  *	Libraries: **ROS, AWSIM, Keras, Tensorflow, OpenCV**
-  * Software: **AutoCAD, Sketchup, Cloudcompare, Veloview**
+ • Under the supervision of [Prof. Mahdi Javanmardi](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en)   
+ •	I am currently working on my thesis in the field of Intelligent Transport Systems and Digital Twins. This research focuses on creating a semi-automatic digital twin of a traffic scene near the Amirkabir University Campus.
+ • The project involves **3D modeling**, **object detection** such as **detecting pedestrians** and moving vehicles using camera data, object movement **path extraction** using Lidar sensors, and finally feeding all the processed data to the **AWSIM simulator** so we can have a real-time simulation.
+ •	Libraries: **ROS, AWSIM, Keras, Tensorflow, OpenCV**
+ • Software: **AutoCAD, Sketchup, Cloudcompare, Veloview**
 <br>
 
 * **RESEARCH GROUP | AMIRKABIR UNI. | FEB 2023 – PRESENT** <br>
-  * I am currently the head of a research team under the guidance of [Professor Farbeh](https://scholar.google.com/citations?user=PAZOYiAAAAAJ&hl=en), and we are currently researching on **Software Disassembling Techniques with Assembly**.
-  * Our findings will be presented as multiple hands-on video lectures in the upcoming Fall 2023 semester for the **Microprocessor and Assembly Language** course.
+ • I am currently the head of a research team under the guidance of [Professor Farbeh](https://scholar.google.com/citations?user=PAZOYiAAAAAJ&hl=en), and we are currently researching on **Software Disassembling Techniques with Assembly**.
+ • Our findings will be presented as multiple hands-on video lectures in the upcoming Fall 2023 semester for the **Microprocessor and Assembly Language** course.
 <br>
 
 * **Data Scientist Intern | [ParticleB CO.](https://particleb.ai/) | JUN 2022 – NOV 2022** <br>
-  * As an intern for a period of six months, my duties primarily involved gaining knowledge about **Natural Language Processing (NLP)** and developing a model capable of **analyzing sentiment polarity** in reviews of **cryptocurrency trends**.
-  * I was tasked with implementing a **Google Chrome extension** designed to predict current trends in cryptocurrency using the acquired reviews from [www.tradingview.com](https://www.tradingview.com/).
+  • As an intern for a period of six months, my duties primarily involved gaining knowledge about **Natural Language Processing (NLP)** and developing a model capable of **analyzing sentiment polarity** in reviews of **cryptocurrency trends**.
+  • I was tasked with implementing a **Google Chrome extension** designed to predict current trends in cryptocurrency using the acquired reviews from [www.tradingview.com](https://www.tradingview.com/).
  <br>
 
 ## Projects
@@ -72,18 +72,18 @@ operating system to further enhance its functionality.](https://github.com/rznin
 
 ## Teaching Experiences
 * **TEACHING ASSISTANT | PRINCIPLES OF ARTIFICIAL INTELLIGENCE | SUMMER 2022 - SPRING 2023** <br>
-  * Under the supervision of [Mahdi Javanmardi](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en), Amirkabir University of Technology <br>
-  * As part of a team effort, I contributed to the complete design and translation of the Artificial Intelligence course lectures based on [UC Berkley CS188 AI Course Materials](http://ai.berkeley.edu/lecture_slides.html), serving as the lead for both the slide creation and translation review teams, ensuring the integrity and fidelity of the content.<br>
+  • Under the supervision of [Mahdi Javanmardi](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en), Amirkabir University of Technology <br>
+  • As part of a team effort, I contributed to the complete design and translation of the Artificial Intelligence course lectures based on [UC Berkley CS188 AI Course Materials](http://ai.berkeley.edu/lecture_slides.html), serving as the lead for both the slide creation and translation review teams, ensuring the integrity and fidelity of the content.<br>
 
 * **HEAD TEACHING ASSISTANT | SOFTWARE ENGINEERING II | SPRING 2023** <br>
-  * Under the supervision of [Dr. Faezeh Gohari](https://scholar.google.com/citations?user=7bpNAlAAAAAJ&hl=en), Amirkabir University of Technology <br>
-  *	Assigned as the Head Teaching Assistant of Software Engineering II along with [Pouyan Hesabi](https://github.com/pouyanhessabi), to manage the other teaching assistants. <br> 
-  * Designing (and grading) assignments and projects related to Software Testing and the implementation of Unit Tests. Also recording lecture videos for the students.
+  • Under the supervision of [Dr. Faezeh Gohari](https://scholar.google.com/citations?user=7bpNAlAAAAAJ&hl=en), Amirkabir University of Technology <br>
+  •	Assigned as the Head Teaching Assistant of Software Engineering II along with [Pouyan Hesabi](https://github.com/pouyanhessabi), to manage the other teaching assistants. <br> 
+  • Designing (and grading) assignments and projects related to Software Testing and the implementation of Unit Tests. Also recording lecture videos for the students.
 <br>
 
 * **TEACHING ASSISTANT | ADVANCED PROGRAMMING | SPRING 2023** <br>
-  * Under the supervision of [Prof. Amir Kalbasi](https://scholar.google.ca/citations?user=oISEZIUAAAAJ&hl=en), and [Prof. Hossein Zeinali](https://scholar.google.com/citations?user=KaGpFx8AAAAJ&hl=en), Amirkabir University of Technology <br>
-  *	Designing (and grading) assignments and projects related to the Java programming language and Object Oriented Programming.<br> <br>
+  • Under the supervision of [Prof. Amir Kalbasi](https://scholar.google.ca/citations?user=oISEZIUAAAAJ&hl=en), and [Prof. Hossein Zeinali](https://scholar.google.com/citations?user=KaGpFx8AAAAJ&hl=en), Amirkabir University of Technology <br>
+  •	Designing (and grading) assignments and projects related to the Java programming language and Object Oriented Programming.<br> <br>
 
 ## Grades
 Some important grades:
