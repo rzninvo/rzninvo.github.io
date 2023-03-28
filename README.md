@@ -113,26 +113,26 @@ Some important grades:
 
 ## Certificates
 ### Technical certificates
-#### Deep Learning Specialization Coursera (and deeplearning.ai): <br> <br> <img src="https://github.com/rzninvo/rzninvo.github.io/raw/main/Certificates/Coursera%20UPVSE4DDZS6F.png" />
+#### Deep Learning Specialization Coursera (and deeplearning.ai): <br> <br> <img src="https://raw.githubusercontent.com/rzninvo/rzninvo.github.io/main/Certificates/Coursera%20UPVSE4DDZS6F.png" />
 ---
 <details>
 <summary>Course 1 (Deep Learning Specialization): Neural Networks and Deep Learning</summary>
 <br>
-<img src="https://github.com/rzninvo/rzninvo.github.io/raw/main/Certificates/Coursera%20UPVSE4DDZS6F.png" />
+<img src="https://raw.github.com/rzninvo/rzninvo.github.io/main/Certificates/Coursera%20UPVSE4DDZS6F.png" />
 </details>
 
 ---
 <details>
 <summary>Course 2: Improving Deep Neural Networks (Deep Learning Specialization): Hyperparameter tuning, Regularization and Optimization</summary>
 <br>
-<img src="https://github.com/rzninvo/rzninvo.github.io/raw/main/Certificates/Coursera%208HRX8P78EYF6.png" />
+<img src="https://raw.github.com/rzninvo/rzninvo.github.io/main/Certificates/Coursera%208HRX8P78EYF6.png" />
 </details>
 
 ---
 <details>
 <summary>Course 3 (Deep Learning Specialization): Structuring Machine Learning Projects</summary>
 <br>
-<img src="https://github.com/rzninvo/rzninvo.github.io/raw/main/Certificates/Coursera%20HHWKVG53JLZC.png" />
+<img src="https://raw.github.com/rzninvo/rzninvo.github.io/main/Certificates/Coursera%20HHWKVG53JLZC.png" />
 </details>
 
 ---
@@ -150,5 +150,5 @@ Some important grades:
 </details>
 
 ---
-#### Artifical Intelligence and Deep Learning | IPM | SNS2023: <br><br> <img src="https://github.com/rzninvo/rzninvo.github.io/raw/main/Certificates/Roham_Zendehdel_Nobari_SNS2023.jpg" />
+#### Artifical Intelligence and Deep Learning | IPM | SNS2023: <br><br> <img src="https://raw.github.com/rzninvo/rzninvo.github.io/main/Certificates/Roham_Zendehdel_Nobari_SNS2023.jpg" />
 <br>
