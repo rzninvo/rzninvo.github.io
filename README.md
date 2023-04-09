@@ -84,6 +84,10 @@ operating system to further enhance its functionality.](https://github.com/rznin
 * **TEACHING ASSISTANT | ADVANCED PROGRAMMING | SPRING 2023** <br>
   • Under the supervision of [Prof. Amir Kalbasi](https://scholar.google.ca/citations?user=oISEZIUAAAAJ&hl=en), and [Prof. Hossein Zeinali](https://scholar.google.com/citations?user=KaGpFx8AAAAJ&hl=en), Amirkabir University of Technology <br>
   •	Designing (and grading) assignments and projects related to the Java programming language and Object Oriented Programming.<br> <br>
+  
+* **TEACHING ASSISTANT | ALGORITHM DESIGN | SPRING 2023** <br>
+  • Under the supervision of [Prof. Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=e)<br>
+  •	Designing (and grading) assignments and projects.<br> <br>
 
 ## Grades
 Some important grades:
