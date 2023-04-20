@@ -47,7 +47,7 @@ My CV [[pdf](https://github.com/rzninvo/rzninvo.github.io/blob/main/CV_Roham_Zen
  • Our findings will be presented as multiple hands-on video lectures in the upcoming Fall 2023 semester for the **Microprocessor and Assembly Language** course.
 <br>
 
-* **Data Scientist Intern | [ParticleB CO.](https://particleb.ai/) | JUN 2022 – NOV 2022** <br>
+* **Data Scientist Intern | [ParticleB CO.](https://particleb.ai/) | JUN 2022 – OCT 2022** <br>
   • As an intern for a period of six months, my duties primarily involved gaining knowledge about **Natural Language Processing (NLP)** and developing a model capable of **analyzing sentiment polarity** in reviews of **cryptocurrency trends**. <br>
   • I was tasked with implementing a **Google Chrome extension** designed to predict current trends in cryptocurrency using the acquired reviews from [www.tradingview.com](https://www.tradingview.com/).
  <br>
