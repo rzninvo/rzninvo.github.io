@@ -28,10 +28,12 @@ My CV [[pdf](https://github.com/rzninvo/rzninvo.github.io/blob/main/CV_Roham_Zen
 
 ## Education
 * **B.Sc. OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - PRESENT** <br>
-·	Overall cGPA: 3.2/4 - Major cGPA: 3.31/4
+•	Overall cGPA: 15.23/20 (3.25/4)      
+• Last Two Years Major GPA: 16.52/20 (3.51/4)   
+• My transcripts excel can be viewed from [here](https://github.com/rzninvo/rzninvo.github.io/tree/main/Transcripts_Excel)    
 
 * **HIGH SCHOOL DIPLOMA IN MATHEMATICS AND PHYSICS | ALLAMEH HELLI 3 HIGHSCHOOL (NODET), TEHRAN, IRAN | 2014 - 2018** <br>
-. Overall GPA: 3.91/4 <br> <br>
+• Overall GPA: 19.32/20 (3.91/4) <br> <br>
 
 ## Research and Work Experiences
 * **B.Sc. THESIS | DIGITAL TWIN OF A TRAFFIC SCENE USING RSU AND AWSIM | AMIRKABIR UNI. | MAR 2023 – PRESENT** <br>
@@ -56,6 +58,7 @@ My CV [[pdf](https://github.com/rzninvo/rzninvo.github.io/blob/main/CV_Roham_Zen
 ### Artificial Intelligence related projects:
 * [**Search Engine**: Implemented a search engine using different models and algorithms, including `binary search`, `tf-idf`, and `word embedding`. Also, `K-means clustering` and `KNN algorithms` are used to improve search accuracy and speed.](https://github.com/rzninvo/Information-Retrieval-Course-Project)
 * [**Data Mining Projects**: Implemented various stuff including `Data Preprocessing`, `Linear Regression`, `Polynomial Regression`, `Keras NN Models`, `K-Means and DBScan Clustering`, `Apriori Decision Trees`, `XGBoost` and `GridSearchCV`](https://github.com/rzninvo/Data-Mining-Projects)
+* [**Robotics Final Project**: This project has three phases: `Maze Solver` and `Object Avoiding Robot` with the `VFH Algorithm`, `City Lanes Following Robot`, and `Traffic Signs Detecting and Reacting` Robot.](https://github.com/rzninvo/robotics_final_project)
 * [**Multi-Labeled Text Classification**: This project aims to classify input samples from `Ronash dataset` into 20 categories using text processing techniques, `hyperparameter tuning`, and `XGBoost` decision tree tuning. Various `LSTM` and `Conv1D` layer combinations were also tested in a hand-made model](https://github.com/rzninvo/multi_label_text_classification)
 * [**Snail Jumper - Neuro Evolution**: A neural network with a `genetic algorithm` playing the Snail Jumper game with `K- fittest`, `Roulette Wheel`, `SuS`, and `Q-Tournament` selection algorithms.](https://github.com/rzninvo/CI_NeuroEvolutionGame)
 * [**Health Evaluation Using Fuzzification Algorithms**: A three-phase system was developed to evaluate patients' **health**, which involves `fuzzification`, `rule inference`, and `defuzzification` using the centroid integral algorithm to convert fuzzy sets back to real values.](https://github.com/rzninvo/Health-Evaluation-Using-Fuzzification-Algorithms)
@@ -106,6 +109,8 @@ Some important grades:
 * **Operating Systems**: 4/4
 * **Computer Architecture**: 4/4
 * **Theory of Machines and Languages**: 4/4
+* **Robotics**: 4/4
+* **Signals and Systems**: 4/4
 <br> <br>
 
 ## Technical Skills
