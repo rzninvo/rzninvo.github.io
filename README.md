@@ -28,8 +28,8 @@ My CV [[pdf](https://github.com/rzninvo/rzninvo.github.io/blob/main/CV_Roham_Zen
 
 ## Education
 * **B.Sc. OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - PRESENT** <br>
-·	Overall cGPA: 15.23/20 (3.25/4)
-. Last Two Years Major GPA: 16.52/20 (3.51/4)
+·	Overall cGPA: 15.23/20 (3.25/4)   
+. Last Two Years Major GPA: 16.52/20 (3.51/4)   
 . My transcript excel can be viewed from [here](https://github.com/rzninvo/rzninvo.github.io/tree/main/Transcripts_Excel) 
 
 * **HIGH SCHOOL DIPLOMA IN MATHEMATICS AND PHYSICS | ALLAMEH HELLI 3 HIGHSCHOOL (NODET), TEHRAN, IRAN | 2014 - 2018** <br>
