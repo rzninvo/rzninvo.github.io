@@ -16,18 +16,23 @@ My research interests are:
 University mail: rohamzn@aut.ac.ir 
 <br>
 My CV [[pdf](https://github.com/rzninvo/rzninvo.github.io/blob/main/CV_Roham_Zendehdel_Nobari.pdf)]
-- [Education](#education)
-- [Research and Work Experiences](#research-and-work-experiences)
-- [Projects](#projects)
-- [Teaching Experiences](#teaching-experiences)
-- [Grades](#grades)
-- [Technical Skills](#technical-skills)
-- [Languages](#languages)
-- [Certificates](#certificates)
-<br>
+- [Greetings! I'm Roham Zendehdel Nobari](#greetings-im-roham-zendehdel-nobari)
+  - [Education](#education)
+  - [Research and Work Experiences](#research-and-work-experiences)
+  - [Projects](#projects)
+    - [Artificial Intelligence related projects:](#artificial-intelligence-related-projects)
+    - [Other projects:](#other-projects)
+  - [Teaching Experiences](#teaching-experiences)
+  - [Grades](#grades)
+  - [Technical Skills](#technical-skills)
+  - [Languages](#languages)
+  - [Certificates](#certificates)
+    - [Technical certificates](#technical-certificates)
+      - [Deep Learning Specialization Coursera (and deeplearning.ai):   ](#deep-learning-specialization-coursera-and-deeplearningai---)
+      - [Artifical Intelligence and Deep Learning | IPM | SNS2023:  ](#artifical-intelligence-and-deep-learning--ipm--sns2023--)
 
 ## Education
-* **B.Sc. OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - PRESENT** <br>
+* **B.Sc. OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - 2023** <br>
 •	Overall cGPA: 15.23/20 (3.25/4)      
 • Last Two Years Major GPA: 16.52/20 (3.51/4)   
 • My transcripts excel can be viewed from [here](https://github.com/rzninvo/rzninvo.github.io/tree/main/Transcripts_Excel)    
@@ -37,11 +42,13 @@ My CV [[pdf](https://github.com/rzninvo/rzninvo.github.io/blob/main/CV_Roham_Zen
 
 ## Research and Work Experiences
 * **B.Sc. THESIS | DIGITAL TWIN OF A TRAFFIC SCENE USING RSU AND AWSIM | AMIRKABIR UNI. | MAR 2023 – PRESENT** <br>
- • Under the supervision of [Prof. Mahdi Javanmardi](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en) <br> 
- •	I am currently working on my thesis in the field of **Intelligent Transport Systems** and **Digital Twins**. This research focuses on creating a **semi-automatic digital twin** of a traffic scene near the Amirkabir University Campus. <br>
- • The project involves **3D modeling**, **object detection** such as **detecting pedestrians** and moving vehicles using camera data, object movement **path extraction** using Lidar sensors, and finally feeding all the processed data to the **AWSIM simulator** so we can have a real-time simulation. <br>
- •	Libraries: **ROS, AWSIM, Keras, Tensorflow, OpenCV** <br>
- • Software: **AutoCAD, Sketchup, Cloudcompare, Veloview** <br>
+ • Under the supervision of [Prof. Mahdi Javanmardi](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en) <br>
+ • Fields: Intelligent Transport Systems, Digital Twins, Computer Vision, Autonomous Vehicles <br>
+ • Focuses on the **Semi-Automatic Creation** of a **Traffic Scene Digital Twin** near the Amirkabir University of Technology Campus. <br>
+ • The project involves **3D Modeling**, **Object Detection** such as Detecting **Pedestrians** and **Vehicles** with Lidar PointCloud data using CenterPoint, **Object Tracking** using **EKF** and **muSSP**, and finally feeding all the processed data to the **AWSIM Simulator** so we can have a real-time simulation. <br>
+ •	Libraries: **ROS2, Autoware, AWSIM, Pytorch, TensorRT, OusterSDK, MMDetection3D, ROS2cs** <br>
+ • Software: **Blender, Ouster Studio, Unity, Rviz2** <br>
+•	[Project Link](https://github.com/rzninvo/Digital-Twin-of-a-Traffic-Scene-Using-RSU-and-AWSIM) <br>
 <br>
 
 * **RESEARCH GROUP | AMIRKABIR UNI. | FEB 2023 – PRESENT** <br>
