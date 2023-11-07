@@ -102,9 +102,9 @@ operating system to further enhance its functionality.](https://github.com/rznin
 ## Grades
 Some important grades:
 * **Data Mining**: 4/4 
-* **Principals of Computational Intelligence**: 4/4 
+* **Principles of Computational Intelligence**: 4/4 
 * **Algorithm Design**: 4/4
-* **Principals of Artificial Intelligence**: 3/4
+* **Principles of Artificial Intelligence**: 3/4
 * **Startup Development**: 4/4
 * **Information Security**: 4/4
 * **Cloud Computing**: 3/4
