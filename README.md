@@ -29,13 +29,13 @@ My CV [[pdf](https://github.com/rzninvo/rzninvo.github.io/blob/main/CV_Roham_Zen
   - [Certificates](#certificates)
     - [Technical certificates](#technical-certificates)
       - [Deep Learning Specialization Coursera (and deeplearning.ai):   ](#deep-learning-specialization-coursera-and-deeplearningai---)
-      - [Artifical Intelligence and Deep Learning, IPM, SNS2023:  ](#artifical-intelligence-and-deep-learning--ipm--sns2023--)
+      - [Artifical Intelligence and Deep Learning  IPM | SNS2023:  ](#artifical-intelligence-and-deep-learning--ipm--sns2023--)
 
 ## Education
 * **B.Sc. OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - 2023** <br>
-•	Overall cGPA: 15.23/20 (3.25/4)      
-• Last Two Years Major GPA: 16.52/20 (3.51/4)   
-• My transcripts excel can be viewed from [here](https://github.com/rzninvo/rzninvo.github.io/tree/main/Transcripts_Excel)    
+•	Overall cGPA: 15.62/20 (3.32/4)      
+• Last Two Years Major GPA: 16.70/20 (3.54/4)   
+• My transcripts excel can be viewed from [here](https://github.com/rzninvo/rzninvo.github.io/tree/main/Transcripts_Excel).   
 
 * **HIGH SCHOOL DIPLOMA IN MATHEMATICS AND PHYSICS | ALLAMEH HELLI 3 HIGHSCHOOL (NODET), TEHRAN, IRAN | 2014 - 2018** <br>
 • Overall GPA: 19.32/20 (3.91/4) <br> <br>
