@@ -30,7 +30,7 @@ My CV [[pdf](https://github.com/rzninvo/rzninvo.github.io/blob/main/CV_Roham_Zen
   - [Certificates](#certificates)
     - [Technical certificates](#technical-certificates)
       - [Deep Learning Specialization Coursera (and deeplearning.ai):   ](#deep-learning-specialization-coursera-and-deeplearningai---)
-      - [Artifical Intelligence and Deep Learning  IPM | SNS2023:  ](#artifical-intelligence-and-deep-learning--ipm--sns2023--)
+      - [Artifical Intelligence and Deep Learning, IPM, SNS2023:  ](#artifical-intelligence-and-deep-learning--ipm--sns2023--)
 
 ## Education
 * **B.Sc. OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - 2023** <br>
