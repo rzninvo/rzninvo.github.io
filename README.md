@@ -1,19 +1,20 @@
 # Greetings! I'm Roham Zendehdel Nobari
-I'm a senior Computer Engineering student at [Amirkabir University of Technology](https://aut.ac.ir/).<br>
+I'm a MSc in Artificial Intelligence and Data Science student at [University of Zurich](https://uzh.ch/cmsssl/en.html).<br>
 My research interests are: 
 * `Digital Twins`
-* `Deep Learning`
-* `Data Mining`
-* `Computer Vision`
+* `3D Object Detection and Tracking`
+* `LLMs`
+* `Autonomous Vehicles`
 * `Natural Language Processing`
 * `Intelligent Transport Systems`
 * `Robotics` <br>
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rzninvo@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/rzninvo)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roham-zendehdel-6a686a241/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roham-zendehdel-nobari-6a686a241/)
 
-University mail: rohamzn@aut.ac.ir 
+University of Zurich Email: roham.zendehdelnobari@uzh.ch   
+ETH Zurich Email: rzendehdel@student.ethz.ch
 <br>
 My CV [[pdf](https://github.com/rzninvo/rzninvo.github.io/blob/main/CV_Roham_Zendehdel_Nobari.pdf)]
 - [Greetings! I'm Roham Zendehdel Nobari](#greetings-im-roham-zendehdel-nobari)
@@ -47,12 +48,13 @@ My CV [[pdf](https://github.com/rzninvo/rzninvo.github.io/blob/main/CV_Roham_Zen
  • Focuses on the **Semi-Automatic Creation** of a **Traffic Scene Digital Twin** near the Amirkabir University of Technology Campus. <br>
  • The project involves **3D Modeling**, **Object Detection** such as Detecting **Pedestrians** and **Vehicles** with Lidar PointCloud data using CenterPoint, **Object Tracking** using **EKF** and **muSSP**, and finally feeding all the processed data to the **AWSIM Simulator** so we can have a real-time simulation. <br>
  •	Libraries: **ROS2, Autoware, AWSIM, Pytorch, TensorRT, OusterSDK, MMDetection3D, ROS2cs** <br>
+ • Accomplishments: This project became the basis for the [AUT-DT Research Repository](https://rzninvo.github.io/Digital-Twin-of-a-Traffic-Scene-Using-RSU-and-AWSIM/) <br>
  • Software: **Blender, Ouster Studio, Unity, Rviz2** <br>
 •	[Project Link](https://github.com/rzninvo/Digital-Twin-of-a-Traffic-Scene-Using-RSU-and-AWSIM) <br>
 <br>
 
 * **RESEARCH GROUP | AMIRKABIR UNI. | FEB 2023 – PRESENT** <br>
- • I am currently the head of a research team under the guidance of [Professor Farbeh](https://scholar.google.com/citations?user=PAZOYiAAAAAJ&hl=en), and we are currently researching on **Software Disassembling Techniques with Assembly**. <br>
+ • I was one of the heads of the research team under the guidance of [Professor Farbeh](https://scholar.google.com/citations?user=PAZOYiAAAAAJ&hl=en), and we are currently researching on **Software Disassembling Techniques with Assembly**. <br>
  • Our findings will be presented as multiple hands-on video lectures in the upcoming Fall 2023 semester for the **Microprocessor and Assembly Language** course.
 <br>
 
